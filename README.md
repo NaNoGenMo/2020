@@ -1,8 +1,8 @@
-# NaNoGenMo 2019
+# NaNoGenMo 2020
 
-[![entries: completed][~completed]](https://github.com/NaNoGenMo/2019/issues?q=label%3Acompleted)
-[![entries: preview][~preview]](https://github.com/NaNoGenMo/2019/issues?q=label%3Apreview)
-[![issues: admin][~admin]](https://github.com/NaNoGenMo/2019/issues?q=label%3Aadmin)
+[![entries: completed][~completed]](https://github.com/NaNoGenMo/2020/issues?q=label%3Acompleted)
+[![entries: preview][~preview]](https://github.com/NaNoGenMo/2020/issues?q=label%3Apreview)
+[![issues: admin][~admin]](https://github.com/NaNoGenMo/2020/issues?q=label%3Aadmin)
 [![twitter: nanogenmobot][~twitter]](https://twitter.com/nanogenmobot)
 
 [~completed]: https://img.shields.io/badge/entries-completed-0e8a16.svg
@@ -15,8 +15,9 @@ National Novel Generation Month - based on [an idea Darius tweeted on a whim](ht
 <p align="center"><a href="https://twitter.com/tinysubversions/status/396305662000775168"><img src="https://nanogenmo.github.io/tweet.png" width="600" height="338" alt="Hey, who wants to join me in NaNoGenMo: spend the month writing code that generates a 50k word novel, share the novel & the code at the end"></a></p>
 
 
-This is the 2019 edition. For previous years see:
+This is the 2020 edition. For previous years see:
 
+* [2019](https://github.com/NaNoGenMo/2019)
 * [2018](https://github.com/NaNoGenMo/2018)
 * [2017](https://github.com/NaNoGenMo/2017)
 * [2016](https://github.com/NaNoGenMo/2016)
@@ -61,8 +62,9 @@ There are already a ton of resources on the old resources threads from
 [2014](https://github.com/dariusk/nanogenmo-2014/issues/1), 
 [2015](https://github.com/dariusk/NaNoGenMo-2015/issues/1), 
 [2016](https://github.com/NaNoGenMo/2016/issues/1), 
-[2017](https://github.com/NaNoGenMo/2017/issues/1)
-and [2018](https://github.com/NaNoGenMo/2018/issues/1).
+[2017](https://github.com/NaNoGenMo/2017/issues/1),
+[2018](https://github.com/NaNoGenMo/2018/issues/1).
+and [2019](https://github.com/NaNoGenMo/2019/issues/1).
 
 You might want to check out [corpora](https://github.com/dariusk/corpora), a repository of public domain lists of things: animals, foods, names, occupations, countries, etc.
 
